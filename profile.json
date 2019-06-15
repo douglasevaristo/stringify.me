@@ -1,18 +1,18 @@
 {
 	"basics": {
-		"name": "Kishore",
-		"label": "Architect",
+		"name": "Douglas Evaristo",
+		"label": "Product Manager",
 		"picture": "profile.jpg",
-		"email": "prakis@gmail.com",
-		"phone": "(912) 98765-4321",
-		"website": "https://pagadala.me/about/",
-		"twitter": "https://twitter.com/prakis",
-		"facebook": "https://www.facebook.com/Stringify.me",
-		"github": "http://github.com/prakis",
-		"summary": "I work as a consultant, designing and developing web (<b>ReactJS</b>, <b>NodeJS</b>) & desktop (<b>C#</b>, <b>JavaFX</b>) apps. I have over 14 years experience in software development and 2 years in Nanotechnology."
+		"email": "hi@douglasevaristo.com",
+		"phone": "(62) 98210-5497",
+		"website": "https://douglasevaristo.com/",
+		"twitter": "https://twitter.com/douglasevaristo",
+		"facebook": "https://www.facebook.com/douglasevaristo",
+		"github": "http://github.com/douglasevaristo",
+		"summary": "Hello 👋! Good to have you here. I work between design and programming. I love new challenges and I'm to help in the evolution of the project."
 	},
 	"theme": {
 		"url": "https://github.com/prakis/stringify.me-theme",
-		"background" :"#f98008"
+		"background" :"#cccccc"
 	}
 }
